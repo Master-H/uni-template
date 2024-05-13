@@ -28,7 +28,7 @@ echo "进入小程序资源目录：$cur"
 
 echo "--------------------- 安装依赖--------------------- "
 
-npx yarn install --registry=http://registry.npm.baidu-int.com  
+npx yarn install --registry=http://registry.npm.taobao.com  
 
 
 # 清除旧的产物
